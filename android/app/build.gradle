@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.ddd"
+    namespace "com.scan_qr_wifi"
     defaultConfig {
-        applicationId "com.ddd"
+        applicationId "com.scan_qr_wifi"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

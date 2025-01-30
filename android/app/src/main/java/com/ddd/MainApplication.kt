@@ -1,4 +1,4 @@
-package com.ddd
+package com.scan_qr_wifi
 
 import android.app.Application
 import com.facebook.react.PackageList

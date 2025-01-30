@@ -24,7 +24,7 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import ScanScreen from './src/screens/ScanScreen';
+import { ScanScreen } from './src/screens/ScanScreen';
 
 
 function App(): React.JSX.Element {
